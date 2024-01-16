@@ -1,0 +1,25 @@
+font.family : Hershey-Noailles-Futura
+font.size : 16
+
+axes.unicode_minus : False
+axes.titlesize :  16
+axes.labelsize : 14
+
+xtick.labelsize : 12
+xtick.top : True
+xtick.direction : in
+xtick.major.size : 5
+xtick.minor.size : 3
+xtick.minor.visible : True
+xtick.major.pad : 7
+
+ytick.right : true
+ytick.labelsize : 12
+ytick.direction : in
+ytick.major.size : 5
+ytick.minor.size : 3
+ytick.minor.visible : True
+
+lines.color : black
+
+axes.prop_cycle : cycler('linestyle', ['solid', 'dashed', 'dotted', 'dashdot', (0,(1,10)), (0,(5,5))])
