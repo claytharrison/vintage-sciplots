@@ -1,0 +1,9 @@
+#+title: Readme
+
+This package bundles [[https://gitlab.com/Luuse/Villa-Noailles/font-hershey-noailles][Hershey-Noailles]] fonts with a matplotlib stylesheet to give a vintage black-and-white look to plots. Currently it only does line and scatter plots.
+
+Hershey-Noailles fonts are created by Luuse and licensed under the SIL Open Font License 1.1, which allows redistribution of fonts as long as they are bundled with code. The requisite code in this package is the ~vintage_sciplots.mplstyle~ stylesheet.
+
+* TODOs
+** [ ] Figure out if it's possible to generate missing characters (diacritics, etc) using the Hershey-Noailles source package or otherwise.
+** [ ] Add other chart types to stylesheet.
